@@ -1,0 +1,1 @@
+/home/joker/Documentos/codigos/neovim\ codes/testando/target/debug/testando: /home/joker/Documentos/codigos/neovim\ codes/testando/src/main.rs /home/joker/Documentos/codigos/neovim\ codes/testando/src/module.rs
